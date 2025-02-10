@@ -10,11 +10,9 @@ Obsidian-i18n是通过替换其他插件的字符串来实现翻译工作的，�
 
 因为翻译都是来自社区众多人员的努力，因此我们成立了Obsidian-Forge这个公益组织，以组织的名义向其他插件贡献本地化翻译。宥于我们的社区影响力目前仅限于中文圈，因此目前只提供简体中文翻译。
 
-如果您是一位Obsidian插件开发者并且想为您的插件添加简体中文翻译，可以与本团队联系，我们乐意为您的插件提供翻译。
-
 # 工作进展
 
-## 测试版翻译
+## 测试版译文（仅在Obsidian-i18n插件内提供）
 
 [已翻译插件名单（持续更新中）](https://vika.cn/share/shrULbfcRrjrXZVfMA9P4/dstYkrs9t44YXVqf1r/viwriSAj9INh6)
 
@@ -566,9 +564,17 @@ Tokenz
 
 </details>
 
-## 已贡献给其他项目的翻译
+## 正式版译文（已合并至对应插件）
 
-- 2025-01-27 由 @曲淡歌 向 tasks 插件提交了 [中文翻译PR](https://github.com/obsidian-tasks-group/obsidian-tasks/pull/3288#event-16071052323) 并被合并 
+- 2025-01-27 由 @曲淡歌 向 [tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) 插件提交了 [简体中文译文](https://github.com/obsidian-tasks-group/obsidian-tasks/pull/3288#event-16071052323)
+
+# 我们免费提供中文翻译支援！
+
+如果您是一位Obsidian插件开发者并且想为您的插件添加简体中文翻译，可以与本团队联系，我们乐意为您的插件提供翻译。
+
+您可以通过以下方式联系到我们：
+- [Obsidian-Forge/obsidian-i18n · Discussions · GitHub](https://github.com/Obsidian-Forge/obsidian-i18n/discussions)
+- [Email](wanyy314@foxmail.com)
 
 # 贡献者名单
 
