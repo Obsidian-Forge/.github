@@ -3,7 +3,7 @@
 
 # Community Background
 
-We are Obsidian users from China. Since most Obsidian plugins are written in English, non-English speakers often face difficulties using them smoothly. To address this, we developed the Obsidian-i18n plugin to translate other Obsidian plugins. With the efforts of dozens of Chinese volunteers, we have completed translations for over 300 plugins. Here is the [list of translated plugins](https://vika.cn/share/shrULbfcRrjrXZVfMA9P4/dstYkrs9t44YXVqf1r/viwriSAj9INh6).
+We are Obsidian users from China. Since most Obsidian plugins are written in English, non-English speakers use plugins with more frictions. To address this, we developed the Obsidian-i18n plugin to translate other Obsidian plugins. With the efforts of dozens of Chinese volunteers, we have completed translations for over 300 plugins. 
 
 
 The Obsidian-i18n plugin works by replacing strings in other plugins to achieve translation, a method that is not widely endorsed. As a result, our plugin has not been approved for listing on the official plugin marketplace. We respect the wishes of the Obsidian official team and other plugin developers but still believe that relying solely on PRs (Pull Requests) for translations makes internationalization challenging to advance. Therefore, we aim to demonstrate through action that while our method may not be elegant, it is effective.
