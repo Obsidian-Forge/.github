@@ -14,7 +14,7 @@ Obsidian-i18n是通过替换其他插件的字符串来实现翻译工作的，�
 
 # 工作进展
 
-## 社区内部翻译
+## 测试版翻译
 
 [已翻译插件名单（持续更新中）](https://vika.cn/share/shrULbfcRrjrXZVfMA9P4/dstYkrs9t44YXVqf1r/viwriSAj9INh6)
 
