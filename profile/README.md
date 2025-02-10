@@ -1,3 +1,5 @@
+[Readme in English](https://github.com/Obsidian-Forge/.github/blob/main/profile/README_en.md) | 中文介绍
+
 # 社区背景
 
 我们是来自中国的Obsidian用户，因为Obsidian插件大多以英文编写，非英文用户无法流畅的使用，因此我们开发了Obsidian-i18n插件来翻译其他Obsidian插件。在几十个中文志愿者的努力下，我们已经完成了300多款插件的翻译，这是[已翻译插件名单](https://vika.cn/share/shrULbfcRrjrXZVfMA9P4/dstYkrs9t44YXVqf1r/viwriSAj9INh6)。
@@ -16,7 +18,7 @@ Obsidian-i18n是通过替换其他插件的字符串来实现翻译工作的，�
 
 # 贡献者名单
 
-以下数据截止2025-02-10 19:56 ，用户名为贡献的翻译条数（包括增删改），
+以下数据截止2025-02-10 19:56 ，用户名为贡献的翻译条数（包括增删改）
 
 ```
 1	宇桐非	11198
