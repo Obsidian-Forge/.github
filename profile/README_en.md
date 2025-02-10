@@ -20,7 +20,7 @@ If you're an Obsidian Plugin Developer interested adding your own project's simp
 
 # Work Progress
 
-## Beta translation of the community
+## Beta translation (Only available in the Obsidian-i18n plugin)
 
 [List of translated plugins (continuously updated)](https://vika.cn/share/shrULbfcRrjrXZVfMA9P4/dstYkrs9t44YXVqf1r/viwriSAj9INh6)
 
@@ -572,9 +572,17 @@ Tokenz
 
 </details>
 
-## Translations that have contributed to other projects
+## Official translation(Merged into the corresponding plugin)
 
-- On January 27th ,2025 @dangehub submitted [a Chinese Translation Pull Request(PR)](https://github.com/obsidiantasksgroup /obsidiantasks/pull/#event-) which was merged successfully into Tasks Plugin repository 
+- 2025-01-27 @dangehub submitted [Simplified Chinese Translation](https://github.com/obsidian-tasks-group/obsidian-tasks/pull/3288#event-16071052323) to [tasks](https://github.com/obsidian-tasks-group/obsidian-tasks)
+
+# We provide Chinese translation support for free!
+
+If you're an Obsidian plugin developer and want to add Simplified Chinese translations to your plugin, feel free to reach out to our team. We'd be happy to provide translation services for your plugin.
+
+You can contact us through the following methods:
+- [Obsidian-Forge/obsidian-i18n · Discussions · GitHub](https://github.com/Obsidian-Forge/obsidian-i18n/discussions)
+- [Email](wanyy314@foxmail.com)
 
 # Contributor List 
 Below data updated till February10th ,19:56 PM . Usernames followed number contributions made(includes additions deletions modifications etc.)
