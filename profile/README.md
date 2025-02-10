@@ -14,6 +14,560 @@ Obsidian-i18n是通过替换其他插件的字符串来实现翻译工作的，�
 
 # 工作进展
 
+## 社区内部翻译
+
+[已翻译插件名单（持续更新中）](https://vika.cn/share/shrULbfcRrjrXZVfMA9P4/dstYkrs9t44YXVqf1r/viwriSAj9INh6)
+
+截止2025-02-10，已完成310款插件的翻译，下面列出了部分已翻译插件
+
+<details>
+  <summary>插件名单</summary>
+
+
+Dataview  
+
+Advanced Tables  
+
+Templater  
+
+Calendar  
+
+Kanban  
+
+Style Settings  
+
+Git  
+
+Iconize  
+
+Minimal Theme Settings  
+
+Outliner  
+
+QuickAdd  
+
+Advanced Slides  
+
+Admonition  
+
+Tag Wrangler  
+
+Omnisearch  
+
+Mind Map  
+
+Recent Files  
+
+Day Planner  
+
+Homepage  
+
+Editing Toolbar  
+
+Annotator  
+
+MAKE.md  
+
+Better Word Count  
+
+Natural Language Dates  
+
+Periodic Notes  
+
+Advanced URI  
+
+Checklist  
+
+Importer  
+
+Projects  
+
+Highlightr  
+
+Emoji Toolbar  
+
+Text Generator  
+
+Image in Editor  
+
+Pandoc  
+
+DB Folder  
+
+Hover Editor  
+
+DataLoom  
+
+Smart Connections  
+
+File Tree Alternative  
+
+Paste URL into selection  
+
+Note Refactor  
+
+Various Complements  
+
+Hider  
+
+Full Calendar  
+
+Commander  
+
+BRAT  
+
+Quick Switcher++  
+
+Buttons  
+
+Self-hosted LiveSync  
+
+Copilot  
+
+Auto Link Title  
+
+Banners  
+
+LanguageTool Integration  
+
+Charts  
+
+Tracker  
+
+Latex Suite  
+
+Media Extended  
+
+Find orphaned files and broken links  
+
+Dice Roller  
+
+cMenu  
+
+Metadata Menu  
+
+Reminder  
+
+TagFolder  
+
+Text Extractor  
+
+Custom Frames  
+
+Settings Search  
+
+Book Search  
+
+Omnivore  
+
+Excel to Markdown Table  
+
+Folder Note  
+
+File Explorer Note Count  
+
+Footnote Shortcut  
+
+CardBoard  
+
+Meld Encrypt  
+
+Quick Explorer  
+
+Zoom  
+
+MetaEdit  
+
+Emoji Shortcodes  
+
+Mermaid Tools  
+
+PDF++  
+
+Remember cursor position  
+
+Local REST API  
+
+Execute Code  
+
+Mousewheel Image zoom  
+
+Meta Bind  
+
+Clear Unused Images  
+
+Folder notes  
+
+Novel Word Count  
+
+Longform  
+
+Custom File Explorer sorting  
+
+Map View  
+
+List Callouts  
+
+Typewriter Scroll  
+
+Markdown Table Editor  
+
+Another Quick Switcher  
+
+Strange New Worlds  
+
+Surfing  
+
+Relative Line Numbers  
+
+Canvas Mindmap  
+
+Reading Time  
+
+Privacy Glasses  
+
+Floating TOC  
+
+Workspaces Plus  
+
+Waypoint  
+
+Completr  
+
+Callout Manager  
+
+Paste image rename  
+
+Better Export PDF  
+
+Image Converter  
+
+Local images plus  
+
+Advanced Canvas  
+
+Columns  
+
+Copy Block Link  
+
+Number Headings  
+
+Table Extended  
+
+Auto Note Mover  
+
+Imgur  
+
+Force note view mode  
+
+Update time on edit  
+
+Table Generator  
+
+Tasks Calendar Wrapper  
+
+Code Styler  
+
+Status Bar Pomodoro Timer  
+
+Colored Tags  
+
+Digital Garden  
+
+Link Favicons  
+
+Links  
+
+Sort & Permute lines  
+
+ChatGPT MD  
+
+Chronology  
+
+Enveloppe  
+
+Consistent attachments and links  
+
+Auto Card Link  
+
+Copy as HTML  
+
+GPT Notes  
+
+Regex Find/Replace  
+
+Better footnote  
+
+Better Command Palette  
+
+Translate  
+
+Clipper  
+
+Custom Attachment Location  
+
+MySnippets  
+
+Note Toolbar  
+
+Search on Internet  
+
+Open Gate  
+
+April's Automatic Timelines  
+
+Global Search and Replace  
+
+Task Progress Bar  
+
+Attachment Management  
+
+Hotkeys for specific files  
+
+Plugin Groups  
+
+Stille  
+
+Ink  
+
+Jump to link  
+
+TikZJax  
+
+Text to Speech  
+
+Creases  
+
+Customizable Menu  
+
+Latex Environments  
+
+Text Transporter  
+
+Typewriter Mode  
+
+Activity History  
+
+Better File Link  
+
+File Order  
+
+Comments  
+
+Image Captions  
+
+Folder Index  
+
+Share Note  
+
+Editor Width Slider  
+
+Codeblock Customizer  
+
+Lapel  
+
+Floating Search  
+
+Daily Note Outline  
+
+Trash Explorer  
+
+Custom Font Loader  
+
+Multi Properties  
+
+Better Search Views  
+
+React Components  
+
+Daily Notes Editor  
+
+Hide Folders  
+
+Find and replace in selection  
+
+Image Layouts  
+
+ProZen  
+
+Calibre  
+
+Advanced Cursors  
+
+Tidy Footnotes  
+
+MathLinks  
+
+File Explorer++  
+
+Heading Shifter  
+
+Scroll to Top  
+
+Day Planner (OG)  
+
+Keyboard Analyzer  
+
+Obsius Publish  
+
+Dynamic Background  
+
+WuCai highlights Official  
+
+Update frontmatter modified date  
+
+Folder Focus Mode  
+
+Optimize Canvas Connections  
+
+Reveal Active File Button  
+
+Solve  
+
+Lovely-Mindmap  
+
+Auto Hide  
+
+Tag Summary  
+
+ZettelFlow  
+
+Remember File State  
+
+Pseudocode  
+
+Short links  
+
+Personal Assistant  
+
+Sidebar Expand on Hover  
+
+Camera  
+
+Nuke Orphans  
+
+Typing speed  
+
+Open with  
+
+TickTickSync  
+
+Background Image  
+
+Zen  
+
+Timelines (Revamped)  
+
+Plugin Manager  
+
+Vault Explorer  
+
+Soundscapes  
+
+Day and Night  
+
+Style Text  
+
+Edit History  
+
+Hidden Folder  
+
+Timer  
+
+Last Modified Timestamp in Status Bar  
+
+Quick Tagger  
+
+Docxer  
+
+Note Definitions  
+
+Virtual Linker / Glossary  
+
+Global Proxy  
+
+Loom  
+
+Birthday-Tracker  
+
+Share to Flomo  
+
+Callout Suggestions  
+
+Frontmatter Alias Display  
+
+Quick Links  
+
+Image2LaTEX  
+
+Cards View  
+
+Quran Lookup  
+
+CardNote  
+
+Improved Random Note  
+
+File Include  
+
+Tokei  
+
+Lazy Plugin Loader  
+
+Dashboard navigator  
+
+Copy Image  
+
+Fast Text Color  
+
+Vertical Tabs  
+
+Spotify Link  
+
+Auto Embed  
+
+historica  
+
+Pomodoro Widget  
+
+Lyrics  
+
+Datepicker  
+
+Enzyme  
+
+Relay  
+
+Image Magician  
+
+Default query in backlinks  
+
+Metafolders  
+
+Password Protect  
+
+Plugins Annotations  
+
+Import Attachments+  
+
+Settings Management  
+
+Memos Sync  
+
+Better Recall  
+
+Hash Pasted Image  
+
+Listen Up!  
+
+Battery Indicator  
+
+Tokenz  
+
+</details>
+
+## 已贡献给其他项目的翻译
+
 - 2025-01-27 由 @曲淡歌 向 tasks 插件提交了 [中文翻译PR](https://github.com/obsidian-tasks-group/obsidian-tasks/pull/3288#event-16071052323) 并被合并 
 
 # 贡献者名单
